@@ -1,0 +1,38 @@
+### Footprint positions - created on 2025-06-03T14:59:56-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                                           PosX       PosY       Rot  Side
+J1        Conn_01x08       PinHeader_1x08_P2.54mm_Vertical                16.2740    59.8300   90.0000  top
+J2        Conn_01x04       PinHeader_1x04_P2.54mm_Vertical                 2.9340    59.8300   90.0000  top
+J3        Conn_01x04       PinHeader_1x04_P2.54mm_Vertical                50.5940    59.8300   90.0000  top
+J4        Conn_01x08       PinHeader_1x08_P2.54mm_Vertical                65.8340    59.8300   90.0000  top
+J5        Conn_01x04       PinHeader_1x04_P2.54mm_Vertical                89.3240    59.8300   90.0000  top
+J6        Conn_01x02       PinHeader_1x02_P2.54mm_Vertical                40.8140    59.8300   90.0000  top
+R1        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    18.8400    12.1340  180.0000  top
+R2        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    18.8400     9.3740  180.0000  top
+R3        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     8.5900     7.1140  180.0000  top
+R4        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    28.8400     7.1040  180.0000  top
+R5        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    42.3300    14.6140  180.0000  top
+R6        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    57.8300    14.7340  180.0000  top
+R7        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    42.3300     9.1040  180.0000  top
+R8        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    57.8300     8.9740  180.0000  top
+R9        100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    81.3300    12.3440  180.0000  top
+R10       100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    81.3300     9.4640  180.0000  top
+R11       100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    71.3300     7.3340  180.0000  top
+R12       100K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    91.3300     7.2040  180.0000  top
+SW1       SW_Push          SW_SPST_60x35                                  18.7740    18.1350    0.0000  top
+SW2       SW_Push          SW_SPST_60x35                                  18.7740     3.1350    0.0000  top
+SW3       SW_Push          SW_SPST_60x35                                   8.7740    10.6350    0.0000  top
+SW4       SW_Push          SW_SPST_60x35                                  28.7740    10.6350    0.0000  top
+SW5       SW_Push          SW_SPST_60x35                                  42.2740    18.1350    0.0000  top
+SW6       SW_Push          SW_SPST_60x35                                  57.7740    18.1350    0.0000  top
+SW7       SW_Push          SW_SPST_60x35                                  42.2740     3.1350    0.0000  top
+SW8       SW_Push          SW_SPST_60x35                                  57.7740     3.1350    0.0000  top
+SW9       SW_Push          SW_SPST_60x35                                  81.2740    18.1350    0.0000  top
+SW10      SW_Push          SW_SPST_60x35                                  81.2740     3.1350    0.0000  top
+SW11      SW_Push          SW_SPST_60x35                                  71.2740    10.6350    0.0000  top
+SW12      SW_Push          SW_SPST_60x35                                  91.2740    10.6350    0.0000  top
+U1        Analog_Joystick  XDCR_COM-09032                                 18.8238    38.8650    0.0000  top
+U2        Analog_Joystick  XDCR_COM-09032                                 80.9433    38.8650    0.0000  top
+## End
